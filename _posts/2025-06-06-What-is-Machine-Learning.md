@@ -25,21 +25,17 @@ At its core, ML involves building models that can recognize patterns, make predi
 ## 🌟 Why ML Matters Today
 
 ### Industry Transformation
-| Sector | Application | Impact |
-|--------|-------------|--------|
-| Healthcare | Early disease detection | 30% more accurate than humans |
-| Finance | Fraud prevention | $12B annual savings |
-| Retail | Personalized recommendations | +35% conversion rates |
-| Manufacturing | Predictive maintenance | 45% fewer breakdowns |
 
-```mermaid
-pie
-    title ML Adoption Growth
-    "Tech Companies" : 45
-    "Healthcare" : 25
-    "Finance" : 15
-    "Other Industries" : 15
-```
+
+| Sector        | Application                  | Impact                        |
+|---------------|------------------------------|-------------------------------|
+| Healthcare    | Early disease detection      | 30% more accurate than humans |
+| Finance       | Fraud prevention             | $12B annual savings          |
+| Retail        | Personalized recommendations | +35% conversion rates        |
+| Manufacturing | Predictive maintenance       | 45% fewer breakdowns         |
+
+
+![ML Adoption Growth](assets/post/ML_AD_Pie.png)
 
 
 # 📚 Types of Machine Learning
@@ -80,13 +76,8 @@ Machine Learning is broadly categorized into four types based on the kind of lea
 ## 🧰 The ML Toolkit 2025
 
 ### Essential Stack
-```mermaid
-graph LR
-A[Python] --> B[NumPy/Pandas]
-A --> C[Scikit-learn]
-A --> D[PyTorch/TensorFlow]
-D --> E[ML Deployment]
-```
+
+![Stack](assets/post/EssentialStack.png)
 
 ### Trending Libraries
 | Library | Purpose | Stars |
