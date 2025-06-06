@@ -79,6 +79,8 @@ Machine Learning is broadly categorized into four types based on the kind of lea
 
 ![Stack](assets/post/EssentialStack.png)
 
+
+
 ### Trending Libraries
 
 
@@ -89,7 +91,7 @@ Machine Learning is broadly categorized into four types based on the kind of lea
 | MLflow | Experiment Tracking | 15K+ |
 | PyTorch Lightning | Simplified DL | 20K+ |
 
----
+
 
 
 # 🧭 Fields of Machine Learning
