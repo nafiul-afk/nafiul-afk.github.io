@@ -80,6 +80,8 @@ Machine Learning is broadly categorized into four types based on the kind of lea
 ![Stack](assets/post/EssentialStack.png)
 
 ### Trending Libraries
+
+
 | Library | Purpose | Stars |
 |---------|---------|-------|
 | HuggingFace | NLP | 100K+ |
