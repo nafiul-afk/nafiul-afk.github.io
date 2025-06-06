@@ -45,17 +45,7 @@ social:
     # - https://www.facebook.com/username
     
 
-google_site_verification: # fill in to your verification string
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
-analytics:
-  google:
-    id: # fill in your Google Analytics ID
-  goatcounter:
-    id: # fill in your GoatCounter ID
- 
 
 # Prefer color scheme setting.
 #
