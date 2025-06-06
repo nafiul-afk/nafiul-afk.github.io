@@ -7,9 +7,15 @@ order: 4
 <div align="center">
   <h1> Hi, I'm Nafiul!</h1>
   <p><em>Data Science Student | ML Enthusiast</em></p>
+</div>
+<div align="center">
 
 
 ## 🎯 About Me
+
+</div>
+
+<div align="center">
 
 💻 Data Science student | 🧠 Machine Learning Enthusiast | 📊 Passionate about turning data into insights
 
