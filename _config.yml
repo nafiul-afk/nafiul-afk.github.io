@@ -1,6 +1,5 @@
 # The Site Configuration
 
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -44,9 +43,17 @@ social:
     - https://www.linkedin.com/in/nafiul-islam-739359279
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    
 
+google_site_verification: # fill in to your verification string
+# ↑ --------------------------
+# The end of `jekyll-seo-tag` settings
 
+# Web Analytics Settings
+analytics:
+  google:
+    id: # fill in your Google Analytics ID
+  goatcounter:
+    id: # fill in your GoatCounter ID
 
 # Prefer color scheme setting.
 #
@@ -69,7 +76,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/Profile/Profile Picture.png
+avatar: "assets/Profile/Profile Picture.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
