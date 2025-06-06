@@ -17,9 +17,9 @@ order: 4
 
 <div align="center">
 
-💻 Data Science student | 🧠 Machine Learning Enthusiast | 📊 Passionate about turning data into insights
+  <p>💻 Data Science student | 🧠 Machine Learning Enthusiast | 📊 Passionate about turning data into insights.  </p>
 
-I'm currently studying Data Science with a focus on Python, machine learning, and real-world analytics.
+  <p>I'm currently studying Data Science with a focus on Python, machine learning, and real-world analytics.  </p>
 
 </div>
 
