@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Machine Learning: The Ultimate Guide"
+title: "Machine Learning: The Beginner Guide"
 date: 2025-06-06 3:10
 categories: [Machine Learning]
 tags: [basics, introduction, roadmap]
