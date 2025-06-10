@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LangChain and Generative AI: The Complete Production Guide"
+title: "LangChain and Generative AI"
 date: 2025-06-07 6:00
 categories: [Generative AI, LangChain]
-tags: [LangChain, LangGraph, LLM, Agents, RAG, Production AI]
+tags: [LangChain, LangGraph, LLM, Agents, Production AI]
 ---
 
 # Building Production-Ready LLM Applications with LangChain: A Comprehensive Guide
